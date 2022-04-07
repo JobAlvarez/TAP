@@ -1,0 +1,15 @@
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\bin\Debug\PIDETEC_JOB_ALVAREZ.exe.config
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\bin\Debug\PIDETEC_JOB_ALVAREZ.exe
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\bin\Debug\PIDETEC_JOB_ALVAREZ.pdb
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.csproj.AssemblyReference.cache
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.Form1.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.Properties.Resources.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.csproj.GenerateResource.cache
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.csproj.CoreCompileInputs.cache
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.exe
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.pdb
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.Imagen.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.PIDETEC.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.ImagenB.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.ImagenH.resources
+C:\Users\Job\source\repos\PIDETEC_JOB_ALVAREZ\PIDETEC_JOB_ALVAREZ\obj\Debug\PIDETEC_JOB_ALVAREZ.ImagenT.resources
